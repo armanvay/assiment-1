@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.pik{
+    background-image: url(Assets/Hero-bg.png);
+    width: 90%;
+    height: 700px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+
+nav{
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+
+}
+button{
+   width: 132px;
+   height: 48px;
+   background-color: #4E47FF;
+   color: aliceblue;
+   border-radius:10px;
+   border: none;
+  
+}
+.logo{
+    font-weight: 99px;
+    font-size: 51px;
+    color: #4E47FF;
+
+    
+}
+nav ul li{
+    list-style: none;
+}
+.title-btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    margin-top: 100px;
+    width: 80%;
+   justify-items: center;
+   text-align: center;
+   margin: 0 auto;
+   margin-top: 200px;
+}
+.title-fix{
+    font-size: 65px;
+
+}
