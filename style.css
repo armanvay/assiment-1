@@ -59,3 +59,26 @@ nav ul li{
     font-size: 65px;
 
 }
+div{
+    display: flex;
+   justify-content: space-between;
+   margin-top: 50px;
+   border-right: 0;
+   gap: 25px;
+   margin: 0 150px 0 150px;
+   border-image-outset: ;
+}
+.baner{
+ width: 500px;
+  border: 15px solid rgb(157, 148, 68);
+  padding: 50px;
+  margin: 200px;
+  align-items: center;
+  margin-left: 150px;
+}
+.wed-flow{
+    width: 403px;
+    height: 328px;
+    margin-top: 116px;
+    border-radius: 20px;
+}
